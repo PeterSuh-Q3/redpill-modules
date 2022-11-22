@@ -17,7 +17,7 @@ echo "| ------------ |:------:|:------:|" >> README.md
 
 for src in `cat all_modules`
 do 
-	echo "|$src|`cat $src/.version`|--|"
+	echo "|$src|`cat $src/.version`|Compiles up to 4.4.180+|"
 
 done >> README.md
 
