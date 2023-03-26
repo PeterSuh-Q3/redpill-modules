@@ -1,1 +1,1 @@
-obj-m		+= sata_nv.o
+obj-m		+= sata_sil.o
